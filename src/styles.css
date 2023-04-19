@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+.total-demos-side-links {
+    top: 200px;
+    right: 10px;
+  }
+
+  .total-demos-side-links a {
+    background: #fff;
+    width: 65px;
+    padding: 8px 0;
+    color: inherit;
+    border-radius: 3px;
+    text-decoration: none;
+    box-shadow: 0 4px 11px rgba(0, 0, 0, .2)
+  }
+
+  .total-demos-side-links a.buy-now {
+    background: #79b530;
+    color: #fff;
+  }

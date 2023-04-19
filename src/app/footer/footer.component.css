@@ -1,0 +1,19 @@
+.footer-post-cards .wpex-card-title a {
+    color: #fff;
+}
+
+.footer-post-cards .wpex-card-date {
+    color: var(--wpex-accent);
+}
+
+.footer-post-cards .wpex-card-excerpt {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.vcex-social-links.vcex_643a4acf2fe9c {
+    font-size: 18px;
+}
+
+.vcex-social-links.vcex_643a4acf2fe9c .vcex-social-links__item {
+    color: #ffffff;
+}
